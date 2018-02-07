@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749729962453",
+    "firebase_url": "https://emailverify-703a5.firebaseio.com",
+    "project_id": "emailverify-703a5",
+    "storage_bucket": "emailverify-703a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749729962453:android:f2f9f8b1ec72eebd",
+        "android_client_info": {
+          "package_name": "com.example.dell.emailverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749729962453-fpi829blehjadqlelumh9q5i0pces55a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.emailverify",
+            "certificate_hash": "95d1376591e16de0fbce57fd28a53cd73013e79c"
+          }
+        },
+        {
+          "client_id": "749729962453-t9ae72h457fa1v1b70ag83dj2dpjvrg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbYD3PcI7lP8AE5IW2RfxHxekYGgUTXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749729962453-t9ae72h457fa1v1b70ag83dj2dpjvrg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
